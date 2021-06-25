@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Eugene from Yekaterinburg, Urals
-- 🌱 I’m currently learning Data Structures & Algorithms and Programming Software Systems at Innopolis University  
+- 🌱 I’m a student of Innopolis University  
 - 📫 Write me in telegram: [@eukuz](https://t.me/eukuz) or via email: evgn.worker@gmail.com
