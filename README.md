@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Eugene from Yekaterinburg, Urals
 - 🌱 I’m a student of Innopolis University  
-- 💻 Currently developing telegram bot for the [Dvizz](https://dvizz.io/)
+- 💻 Currently developing [telegram bot](https://t.me/dvizz_app_bot) for the [Dvizz](https://dvizz.io/)
 - 📫 Write me in telegram: [@eukuz](https://t.me/eukuz) or via email: evgn.worker@gmail.com
