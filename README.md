@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Eugene from Yekaterinburg, Urals
-- 🌱 I’m a student of Innopolis University  
+- 👋 Hi, my name's Eugene. I'm a 2nd-year student of Innopolis University
 - 💻 Currently developing :
   - [A telegram bot](https://t.me/dvizz_app_bot) for the [Dvizz App](https://dvizz.io/)
   - [Another telegram bot](https://github.com/eukuz/ProgressTrackBot) to track progresses of studying/reading/watching/etc.  
