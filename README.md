@@ -1,2 +1,3 @@
 - 👋 Hi, my name's Eugene. I'm a 2nd-year student of [Innopolis University](https://innopolis.university/)
+- I am interested in .Net developement, and management
 - 📫 Write me in telegram: [@eukuz](https://t.me/eukuz) or via email: evgn.worker@gmail.com
