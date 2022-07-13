@@ -1,3 +1,6 @@
-- 👋 Hi, my name's Eugene. I'm a 2nd-year student of [Innopolis University](https://innopolis.university/)
+- 👋 Hi, my name's Eugene, I'm a
+  - 👨‍🎓 3rd-year Software Development student of [Innopolis University](https://innopolis.university/) 
+  - 💻 Junior .Net Developer at [Visiology](https://visiology.su/)
+  - 🚀 Teamlind & Founder at Makedone (you will hear about us soon)
 - 💼 I am interested in .Net development and management ➡️ [LinkedIn](linkedin.com/in/eukuz)
-- 📫 Write me in telegram: [@eukuz](https://t.me/eukuz) or via email: evgn.worker@gmail.com
+- 📫 Write me in telegram: [@eukuz](https://t.me/eukuz) or via email: eukuz.work@gmail.com
