@@ -1,6 +1,6 @@
 - 👋 Hi, my name's Eugene and I'm a :
   - 👨‍🎓 3rd-year Software Development student of [Innopolis University](https://innopolis.university/) 
-  - 💻 Junior .Net Developer at [Visiology](https://visiology.su/)
+  - 💻 Full Stack Developer at [Visiology](https://visiology.su/)
   - 🚀 Teamlind & Founder at Makedone (you will hear about us soon)
 - 💼 My professional interests are .Net development and management ➡️ [LinkedIn](linkedin.com/in/eukuz)
 - 📫 Write me in telegram: [@eukuz](https://t.me/eukuz) or via email: eukuz.work@gmail.com
