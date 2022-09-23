@@ -3,4 +3,4 @@
   - 💻 Full Stack Developer at [Visiology](https://visiology.su/)
   - 🚀 Teamlind & Founder at Makedone (you will hear about us soon)
 - 💼 My professional interests are .Net development and management ➡️ [LinkedIn](linkedin.com/in/eukuz)
-- 📫 Write me in telegram: [@eukuz](https://t.me/eukuz) or via email: eukuz.work@gmail.com
+- 📫 Write me via email: eukuz.work@gmail.com
